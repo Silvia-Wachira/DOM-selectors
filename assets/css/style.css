@@ -1,3 +1,26 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(235, 60, 223);
 }
+
+
+.title {
+    color: rgb(15, 1, 1);
+}
+.sub-title {
+    color: rgb(15, 1, 1);
+}
+
+.card {
+    background: rgb(238, 234, 234);
+    width: 270px;
+    height: 500px;
+    
+    /* margin: 200px; */
+    margin-left: 200px;
+}
+
+.btn {
+    color: rgb(58, 30, 199);
+    background-color: white;
+}
+
