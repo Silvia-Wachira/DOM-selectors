@@ -1,5 +1,2 @@
-function updateWeekday(day){
-    let h4 = document.querySelector('h4')
-    h4.textContent = day 
-}
-updateWeekday('Sunday')
+document.querySelector('form').addEventListener
+('mouseover',(e) => console.log(e))
